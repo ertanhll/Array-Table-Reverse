@@ -89,7 +89,7 @@ int main() {
     int len2=0;
     int *p;
     int table[10][10];
-    int array[10]={1,9,7,9,1,3,8};
+    int array[10]={7,9,1,2,2,8};
     p=array;
     
     printf("before\n");
