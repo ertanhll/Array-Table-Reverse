@@ -32,7 +32,7 @@ before
 
 
 find the below array in the table and reverse it
-1 9 7 9 1 3 8 
+7 9 1 2 2 8
 
 after
 2 8 1 8 6 8 2 4 7 2 
